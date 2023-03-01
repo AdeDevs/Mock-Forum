@@ -6,7 +6,7 @@
 
 <script>
 export default {
-    name: "Facebook Home Page",
+    name: "FacebookHomePage",
     props: {
         msg: String
     }
